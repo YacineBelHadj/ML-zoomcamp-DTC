@@ -1,0 +1,4 @@
+# Homework 8 dataset and repeat downloads
+/src/ml_zoomcamp_dtc/08-dl/data/
+/src/ml_zoomcamp_dtc/08-dl/data.zip
+/src/ml_zoomcamp_dtc/08-dl/data.zip.[0-9]*
